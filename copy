@@ -14,3 +14,4 @@ yum -y install epel-release
 yum update 
 yum -y groupinstall "Development Tools"
 yum -y install kernel* dkms
+test vscode
