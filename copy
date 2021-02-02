@@ -10,3 +10,7 @@ https://addons.mozilla.org/firefox/downloads/file/3663488/ublock_origin-1.30.6-a
 
 ----------------------|Hiver 2021 cours resource|-------------------------------------
 https://bdebqcca.sharepoint.com/sites/Section_20211-EO-4204SBBB-000001/Documents%20partages/General/linuxx64_12201_database.zip
+yum -y install epel-release
+yum update 
+yum -y groupinstall "Development Tools"
+yum -y install kernel* dkms
